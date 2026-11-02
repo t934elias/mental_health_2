@@ -1,6 +1,0 @@
-dataset_role,huggingface_dataset_id,dataset_card_url,config,split,revision_or_commit,upstream_citation,license_or_terms,downloaded_rows,retained_rows,used_rows,preprocessing_script,notes
-risk_or_depression_training,,,,,,,,,,,,
-emotion_training,,,,,,,,,,,,
-policy_or_action_labels,,,,,,,,,,,,
-10k_general_tweet_corpus,,,,,,,,,,,,
-hashtag_tweet_subset,,,,,,,,,,,,
