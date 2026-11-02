@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Data and potentially sensitive research artifacts
+/data/
+*.csv
+*.parquet
+*.jsonl
+*.pkl
+*.pickle
+
+# Model checkpoints / generated artifacts
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+/checkpoints/
+/outputs/
+/logs/
+
+# Notebooks
+.ipynb_checkpoints/
